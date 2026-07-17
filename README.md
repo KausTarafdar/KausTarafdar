@@ -5,7 +5,7 @@ I build enterprise-grade backend architectures, high-throughput event data pipel
 
 ---
 
-## 🚀 Core Competencies
+## Core Competencies
 
 *   **System Architecture:** Distributed Systems, Microservices, Event-Driven Architectures, High-Concurrency Webhook Ingestion.
 *   **Data Systems:** Schema Normalization, Advanced Distributed Caching Topologies, Asynchronous Task Routing.
@@ -13,7 +13,7 @@ I build enterprise-grade backend architectures, high-throughput event data pipel
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 *   **Languages & Frameworks:** Python, FastAPI, Django, Flask, JavaScript, Node.js, Express.js (REST, GraphQL)
 *   **Data & Orchestration:** PostgreSQL, Redis, MongoDB, Asynchronous Task Queues (RQ)
@@ -21,7 +21,7 @@ I build enterprise-grade backend architectures, high-throughput event data pipel
 
 ---
 
-## 📈 Engineering Footprint & Industry Experience
+## Engineering Footprint & Industry Experience
 
 *   **AI/ML Infrastructure Orchestration:** Designed and scaled distributed asynchronous GPU worker pools using Redis, RQ, and Docker. Evolved core monolithic services into highly resilient, multi-VM architectures capable of maintaining zero-downtime performance for **50K+ active users** running heavy on-prem vision and image-relighting models.
 *   **High-Throughput Integration Engines:** Engineered custom, event-driven integration platforms handling bidirectional data flows and processing real-time webhooks for enterprise CRMs (ServiceTitan, GoHighLevel) and VoIP communication layers (Twilio, CallTrackingMetrics).
@@ -30,7 +30,7 @@ I build enterprise-grade backend architectures, high-throughput event data pipel
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 *   **LinkedIn:** [/in/kaustav-tarafdar](https://www.linkedin.com/in/kaustav-tarafdar/)
 *   **Email:** [kaustarafdar@gmail.com](mailto:kaustarafdar@gmail.com)
